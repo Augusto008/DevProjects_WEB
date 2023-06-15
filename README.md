@@ -26,4 +26,5 @@ Libraries:
 
 
 Versioning:
-  - Git  - GitHub
+  - Git
+  - GitHub
