@@ -7,18 +7,23 @@ Technologies used:
   - JS (JavaScript)
   - SQL
 
+
 Frameworks:
   - Bootstrap
   - Laravel
 
+
 DBMS
   - PostgreSQL
+
 
 APIs:
   - Splider
 
+
 Libraries:
   - PHPMailer
+
 
 Versioning:
   - Git
